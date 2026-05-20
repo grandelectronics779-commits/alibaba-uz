@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Alibaba.com O'zbek tarjimon proxy",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
