@@ -1,8 +1,0 @@
-{
-  "name": "alibaba-uz-proxy",
-  "version": "1.0.0",
-  "description": "Alibaba.com O'zbek tarjimon proxy",
-  "engines": {
-    "node": "24.x"
-  }
-}
